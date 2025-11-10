@@ -1,5 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi there, I'm Atharva 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFB3&lines=AI+Engineer+in+the+making;Building+Data+Driven+Solutions;FastAPI+%7C+LLMs+%7C+Analytics)](https://git.io/typing-svg)
+
 
 <p align="center">
   <b>AI & Data Science Enthusiast | 3rd Year B.Tech Student | FastAPI + ML Developer</b>
